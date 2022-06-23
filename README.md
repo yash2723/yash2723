@@ -1,6 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yash+Upadhyay.;Pleased+to+see+you+here!&center=true&size=30">
-</h1>
+###
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yash+Upadhyay.;Pleased+to+see+you+here!&center=true&size=30">
+
+<br>
 
 ## ⚡ Stats ⚡
 
@@ -15,7 +16,7 @@
 </div>
 <br>
 <div align=center>
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2723&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2723&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 <br>
 <div align=center>
