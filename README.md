@@ -5,19 +5,19 @@
 
 <!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
 
-<div align=center>
+<div align=left>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash2723&theme=react&border=61dafb&hide_border=true" alt="Yash Upadhyay" />
 </div>
 <br>
-<div align=center>
+<div align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=yash2723&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 <br>
-<div align=center>
+<div align=left>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2723&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 <br>
-<div align=center>
+<div align=left>
   <img src="https://activity-graph.herokuapp.com/graph?username=yash2723&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
